@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://blog.coomb.co/first-post.html",
-            "url": "https://blog.coomb.co/first-post.html",
+            "id": "https://blog.coomb.co/first-post/",
+            "url": "https://blog.coomb.co/first-post/",
             "title": "First Post",
             "summary": " Hello World ",
             "content_html": "\n  <p>\n    Hello World\n  </p>",
