@@ -3,12 +3,37 @@
     <title>Coomb Blog</title>
     <link href="https://blog.coomb.co/feed.xml" rel="self" />
     <link href="https://blog.coomb.co" />
-    <updated>2021-09-02T15:06:34+07:00</updated>
+    <updated>2021-09-02T15:08:36+07:00</updated>
     <author>
         <name>Pattara Prachumpai</name>
     </author>
     <id>https://blog.coomb.co</id>
 
+    <entry>
+        <title>Loremssad</title>
+        <author>
+            <name>Pattara Prachumpai</name>
+        </author>
+        <link href="https://blog.coomb.co/loremssad/"/>
+        <id>https://blog.coomb.co/loremssad/</id>
+
+        <updated>2021-09-02T15:08:36+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.coomb.co/media/posts/2/markuphero-LztwUIvvcuxg8oZrqw0C-1.png" alt="" />
+                     asdasdasdasdasd 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.coomb.co/media/posts/2/markuphero-LztwUIvvcuxg8oZrqw0C-1.png" alt="" />
+                
+  <p>
+    asdasdasdasdasd
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>WP Rocket ปลั๊กอินติดจรวดให้เว็บไซต์ พร้อมวิธีตั้งค่า</title>
         <author>
